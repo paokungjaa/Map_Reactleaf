@@ -1,0 +1,85 @@
+{
+  "personnel": [
+    {
+      "id": "1",
+      "name": "สมชาย ใจดี",
+      "position": "หัวหน้าเวร",
+      "avatar": "👨‍✈️"
+    },
+    {
+      "id": "2",
+      "name": "สมหญิง รักงาน",
+      "position": "รองหัวหน้า",
+      "avatar": "👩‍✈️"
+    },
+    {
+      "id": "3",
+      "name": "วิชัย มานะ",
+      "position": "เจ้าหน้าที่",
+      "avatar": "👨‍💼"
+    },
+    {
+      "id": "4",
+      "name": "สุดา สวยงาม",
+      "position": "เจ้าหน้าที่",
+      "avatar": "👩‍💼"
+    },
+    {
+      "id": "5",
+      "name": "ประยุทธ ขยัน",
+      "position": "เจ้าหน้าที่",
+      "avatar": "👨‍🔧"
+    },
+    {
+      "id": "6",
+      "name": "มาลี ยิ้มแย้ม",
+      "position": "เจ้าหน้าที่",
+      "avatar": "👩‍🔧"
+    }
+  ],
+  "locations": [
+    {
+      "id": "8140",
+      "name": "จุดที่ 1",
+      "lat": 13.765141252643984,
+      "lng": 100.50659894943239,
+      "maxCapacity": 5
+    },
+    {
+      "id": "952f",
+      "name": "จุดที่ 2",
+      "lat": 13.762937265148677,
+      "lng": 100.50640046596529,
+      "maxCapacity": 5
+    },
+    {
+      "name": "addlocation",
+      "lat": 15.008463695004872,
+      "lng": 99.81992631392048,
+      "maxCapacity": 5,
+      "id": "xf_-SjHPtKs"
+    },
+    {
+      "name": "add",
+      "lat": 14.989892662099429,
+      "lng": 98.26146739612925,
+      "maxCapacity": 5,
+      "id": "4tTrVUhx3mc"
+    },
+    {
+      "name": "TestMarker",
+      "lat": 14.255398987934202,
+      "lng": 100.11152302135122,
+      "maxCapacity": 5,
+      "id": "mTQptdFCRPU"
+    }
+  ],
+  "locationPersonnel": [
+    {
+      "id": "72e8",
+      "locationId": "952f",
+      "personId": "2"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
